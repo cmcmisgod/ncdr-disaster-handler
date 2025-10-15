@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2025 cmcm7414
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------
+NCDR 災防警報模組附註
+--------------------------------------
+
+本模組包含兩個版本：
+- `disasterHandler_gas.js`：Google Apps Script 版本（可用於 LINE Bot / GAS）
+- `disasterHandler_node.js`：Node.js 版本（可用於伺服器或本地測試）
+
+資料來源：NCDR 災害防救科技中心
+https://alerts.ncdr.nat.gov.tw/RssAtomFeeds.ashx
+
+授權方式：
+本模組依 MIT License 授權，可自由使用與修改。
